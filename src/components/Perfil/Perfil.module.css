@@ -5,7 +5,7 @@
   align-items: center;
   padding: 5rem 0 2.5rem;
   border-radius: 0.5rem;
-  border-color: 2px solid #97bfc7;
+  border-color: 2px solid var(--btncolor);
   max-width: 960px;
   width: 100%;
 }
