@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+.container {
+  max-width: 60rem;
+  width: auto;
+  margin: 0 auto;
+  padding: 2rem;
+}
+body {
+  background-image: url(/githubbg.svg);
+  background-size: 80%;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+:root {
+  --primaryColor: #aebfcf;
+  --btnColor: #97bfc7;
+  --btnHover: rgb(212, 26, 26);
+  --borderColor: #aebfcf91;
+  --textColor: #3f4244;
+  --whiteColor: #fafafa;
+  --secondaryColor: #506477;
+}
+
+.form {
+  padding: 2rem;
+  max-width: 960px;
+  margin: 0 auto;
+}
+.fieldset {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-color: var(--borderColor);
+  background-color: var(--primaryColor);
+  margin-inline: 1rem;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  max-width: 60rem;
+  width: 100%;
+  margin: 0 auto;
+}
+.input {
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  border: none;
+  display: block;
+  width: 15.5rem;
+  margin-top: 0.5rem;
+  outline-color: transparent;
+}
+.input:focus {
+  color: var(--secondaryColor);
+  background-color: var(--whiteColor);
+}
+.github {
+  width: 4.5rem;
+}
