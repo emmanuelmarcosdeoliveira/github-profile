@@ -284,7 +284,11 @@ git clone  https://github.com/emmanuelmarcosdeoliveira/pass-in-web.git .
 <br>
 Será aberto uma janela no seu Navegador com o projeto sendo executado.<br>
 Caso isso não ocorra digite na barra de endereço do navegador<br>
-**localhost://http://localhost:5173/**<br>
+
+```http
+localhost://http://localhost:5173/
+```
+
 Pronto agora Vocé já tem o projeto rodando; podendo verificar o código; fazer alterações. etc...
 <br>
 
