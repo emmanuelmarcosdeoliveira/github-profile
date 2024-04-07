@@ -297,11 +297,6 @@ Acesse o Projeto clicando no Link Abaixo<br>
 <a>
 </div>
 <br>
-<br>
-
-<!-- [![Disney+](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://disney-plus-clone-dev-oliveira.vercel.app/) -->
-
-<br>
 
 <div align='center'>
 <h2> 📚References</h2>
