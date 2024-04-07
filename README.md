@@ -66,7 +66,7 @@ O GitHub API foi construido para visualizar os repositório Publicos de qualquer
 <div>
 <h3 align="center">📽️project demonstration video</h3>
 
-https://github.com/emmanuelmarcosdeoliveira/module_28_react_github-profile/blob/readme/src/assets/video/gitHubAPI.mp4
+https://github.com/emmanuelmarcosdeoliveira/module_28_react_github-profile/blob/readme/src/video/gitHubAPI.mp4
 
 </div>
 
