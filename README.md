@@ -63,7 +63,7 @@ O GitHub API foi construido para visualizar os repositório Publicos de qualquer
 </h3>
 
 <!-- Video de Demostraçào -->
-<div>
+<!-- <div> -->
 <h3 align="center">📽️project demonstration video</h3>
 
 <video src="https://github.com/emmanuelmarcosdeoliveira/module_28_react_github-profile/blob/readme/src/video/gitHubAPI.mp4">
@@ -141,9 +141,9 @@ O GitHub API foi construido para visualizar os repositório Publicos de qualquer
 
 <br>
 
-💾 - [node.js](https://nodejs.org/en)<br>
-💾 - [vs-code](https://code.visualstudio.com/)<br>
-💾 - [Git](https://git-scm.com/)<br>
+> 💾 - [node.js](https://nodejs.org/en)<br>
+> 💾 - [vs-code](https://code.visualstudio.com/)<br>
+> 💾 - [Git](https://git-scm.com/)<br>
 
 </div>
 <br>
@@ -268,12 +268,7 @@ git clone  https://github.com/emmanuelmarcosdeoliveira/pass-in-web.git .
 <br>
 
 4.  Pronto🏅<br>
-    Será aberto uma janela no seu Navegador com o projeto sendo executado.<br>
-    
-    > [!IMPORTANT]
-    > Caso isso não ocorra digite na barra de endereço do navegador[localhost://](http://  localhost:5173/)
-    
-
+    Será aberto uma janela no seu Navegador com o projeto sendo executado.<br> >**Caso isso não ocorra digite na barra de endereço do navegador[localhost://](http://localhost:5173/)**
     Pronto agora Vocé já tem o projeto rodando; podendo verificar o código; fazer alterações. etc...
 
 <br>
@@ -281,7 +276,9 @@ git clone  https://github.com/emmanuelmarcosdeoliveira/pass-in-web.git .
 <h2 align="center">🌎 Web project</h2>
 <div align="center">
 Acesse o Projeto clicando no Link Abaixo<br>
+<a href="https://github-profile-devoliveira.vercel.app/">
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"> 
+<a>
 </div>
 <br>
 <br>
