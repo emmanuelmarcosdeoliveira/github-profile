@@ -135,6 +135,7 @@ O GitHub API foi construido para visualizar os repositório Publicos de qualquer
 </a>
 <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/--path?style=for-the-badge&logo=vite&label=Vite.js"/> 
 </a>
+
 </div>
 
 <div align="left" width="300"px>
