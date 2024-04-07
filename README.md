@@ -65,6 +65,9 @@ O GitHub API foi construido para visualizar os repositório Publicos de qualquer
 <!-- Video de Demostraçào -->
 <div>
 <h3 align="center">📽️project demonstration video</h3>
+
+https://github.com/emmanuelmarcosdeoliveira/module_28_react_github-profile/blob/readme/src/assets/video/gitHubAPI.mp4
+
 </div>
 
 <br>
@@ -266,10 +269,10 @@ git clone  https://github.com/emmanuelmarcosdeoliveira/pass-in-web.git .
 4.  Pronto🏅<br>
     Será aberto uma janela no seu Navegador com o projeto sendo executado.<br>
     
-    >[!important]
-    >Caso isso não ocorra digite na barra de endereço do navegador[localhost://](http://  localhost:5173/)
-    >
+    > [!IMPORTANT]
+    > Caso isso não ocorra digite na barra de endereço do navegador[localhost://](http://  localhost:5173/)
     
+
     Pronto agora Vocé já tem o projeto rodando; podendo verificar o código; fazer alterações. etc...
 
 <br>
@@ -291,7 +294,7 @@ Acesse o Projeto clicando no Link Abaixo<br>
  </div>
 <div align="center">
 
-:memo: **Acesse:** [EBAC](https://www.rocketseat.com.br/)
+:memo: **Acesse:** [EBAC](https://ebaconline.com.br/)
 <br>
 <br>
 
