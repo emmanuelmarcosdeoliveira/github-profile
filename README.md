@@ -319,8 +319,6 @@ Acesse o Projeto clicando no Link Abaixo<br>
 <p>Released in 2024 This project is under the MIT license.</p>
 <p>Designed by EBAC and developed by <strong>OliveirafullStack 🚀</p>
 </br>
-</br>
-
  <h2>👨🏻‍🦱Developed by </h2>
  <a href="https://oliveira-portifolio.vercel.app/"><img alt="Static Badge" src="https://img.shields.io/badge/-path?style=for-the-badge&logo=git&logoColor=%23fff&label=oliveiradevfullstack&labelColor=%23000&color=%23000">
  </a>
