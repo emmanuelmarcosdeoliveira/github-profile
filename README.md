@@ -50,9 +50,8 @@
 <div align='left'>
 <h2> ✅Project description: </h2> 
 <br>
-<p align='left' >
-- O GitHub API foi construido para visualizar os repositório Publicos de qualquer usuario do GitHub.
-</p>
+O GitHub API foi construido para visualizar os repositório Publicos de qualquer usuario do GitHub.
+
 <div>
 
 <br>
@@ -75,8 +74,8 @@
   <h2>⚙️Features</h2>
 <div>
 <div align="left">
-- [x] Integraçao com Web-API GitHub <br>
-- [x] Pesquisar por nome de usuarios<br>
+🔹Integraçao com Web-API GitHub <br>
+🔹Pesquisar por nome de usuarios<br>
 </div>
 <br>
 
@@ -128,8 +127,6 @@
 <div align='center'>
  <h2>💽Installation</h2>
 </div>
-<br>
-<br>
 
 <div align="left" width="300"px>
 
@@ -234,7 +231,7 @@ DATABASE_URL="file:./dev.db"
 <br>
 <br>
 
-**Comando para executar o clone dentro do terminal**
+**Comando para executar o clone no terminal**
 
 ```bash
 git clone  https://github.com/emmanuelmarcosdeoliveira/pass-in-web.git .
@@ -243,15 +240,16 @@ git clone  https://github.com/emmanuelmarcosdeoliveira/pass-in-web.git .
 <br>
 <br>
 
-2. **Instale as dependênncias necessarias para que o projeto funcione**<br>
+2. **Instale as dependências necessárias para que o projeto funcione**<br>
 
-- Digite o comando dentro do Terminal
+- Digite o comando no Terminal
 
 ```bash
  npm i
 ```
 
-- Esse comando faz uma verificação de todas as Dependências necessária para a execução do projeto e faz a instalação dessas dependências para que você possa executar esse projeto. ⌛Espere o processo ser concluido.</i>
+- Esse comando faz uma verificação de todas as Dependências necessária para a execução do projeto e faz a instalação dessas dependências para que você possa executar esse projeto.<br>
+- Espere o processo ser concluido. ⌛</i>
 
 <br>
 <br>
@@ -265,8 +263,13 @@ git clone  https://github.com/emmanuelmarcosdeoliveira/pass-in-web.git .
 <br>
 <br>
 
-4.  Pronto🏅
+4.  Pronto🏅<br>
     Será aberto uma janela no seu Navegador com o projeto sendo executado.<br>
+    
+    >[!important]
+    >Caso isso não ocorra digite na barra de endereço do navegador[localhost://](http://  localhost:5173/)
+    >
+    
     Pronto agora Vocé já tem o projeto rodando; podendo verificar o código; fazer alterações. etc...
 
 <br>
