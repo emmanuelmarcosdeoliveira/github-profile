@@ -8,14 +8,14 @@
   max-width: 60rem;
   width: auto;
   margin: 0 auto;
-  padding: 2rem;
+  padding: 1rem;
 }
 body {
   background-image: url(/githubbg.svg);
-  background-size: 80%;
+  background-size: 30%;
   background-repeat: no-repeat;
-  background-position: center center;
-}
+  background-position: center;
+  }
 
 :root {
   --primaryColor: #aebfcf;
@@ -28,7 +28,7 @@ body {
 }
 
 .form {
-  padding: 2rem;
+  padding: 1rem;
   max-width: 960px;
   margin: 0 auto;
 }

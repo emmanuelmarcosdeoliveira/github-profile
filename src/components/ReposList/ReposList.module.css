@@ -36,8 +36,8 @@
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: 50%;
-  width: 48px;
-  height: 48px;
+  width: 24px;
+  height: 24px;
 
   top: 0;
   left: 0;
@@ -78,4 +78,11 @@
 .description {
   height: 4rem;
   width: 100%;
+}
+
+.status {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50vh;
 }
