@@ -65,7 +65,6 @@ O GitHub API foi construido para visualizar os repositório Publicos de qualquer
 <!-- Video de Demostraçào -->
  <!-- <h3 align="center">📽️project demonstration video</h3> -->
 
-
 </div>
 
 <br>
@@ -140,8 +139,6 @@ O GitHub API foi construido para visualizar os repositório Publicos de qualquer
 <a href="https://react.dev/"> 
 </a>
 <img>
-
-
 
 </div>
 
@@ -281,7 +278,7 @@ git clone  https://github.com/emmanuelmarcosdeoliveira/pass-in-web.git .
 <br>
 
 4.  Pronto🏅
-<br>
+
 Será aberto uma janela no seu Navegador com o projeto sendo executado.<br>
 Caso isso não ocorra digite na barra de endereço do navegador<br>
 
