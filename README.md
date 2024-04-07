@@ -63,11 +63,8 @@ O GitHub API foi construido para visualizar os repositório Publicos de qualquer
 </h3>
 
 <!-- Video de Demostraçào -->
-<!-- <div> -->
-<h3 align="center">📽️project demonstration video</h3>
+ <!-- <h3 align="center">📽️project demonstration video</h3> -->
 
-<video src="https://github.com/emmanuelmarcosdeoliveira/module_28_react_github-profile/blob/readme/src/video/gitHubAPI.mp4">
-</video>
 
 </div>
 
@@ -130,6 +127,14 @@ O GitHub API foi construido para visualizar os repositório Publicos de qualquer
 
 <div align='center'>
  <h2>💽Installation</h2>
+</div>
+
+<div>
+<h6>built with technologies</h6>
+<a href="https://react.dev/"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
+</a>
+<a href="https://vitejs.dev/"> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/> 
+</a>
 </div>
 
 <div align="left" width="300"px>
@@ -267,10 +272,12 @@ git clone  https://github.com/emmanuelmarcosdeoliveira/pass-in-web.git .
 <br>
 <br>
 
-4.  Pronto🏅<br>
-    Será aberto uma janela no seu Navegador com o projeto sendo executado.<br> >**Caso isso não ocorra digite na barra de endereço do navegador[localhost://](http://localhost:5173/)**
-    Pronto agora Vocé já tem o projeto rodando; podendo verificar o código; fazer alterações. etc...
-
+4.  Pronto🏅
+<br>
+Será aberto uma janela no seu Navegador com o projeto sendo executado.<br>
+Caso isso não ocorra digite na barra de endereço do navegador<br>
+**localhost://http://localhost:5173/**<br>
+Pronto agora Vocé já tem o projeto rodando; podendo verificar o código; fazer alterações. etc...
 <br>
 
 <h2 align="center">🌎 Web project</h2>
