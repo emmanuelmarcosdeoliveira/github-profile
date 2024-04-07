@@ -18,7 +18,7 @@ const ReposList = ({ nomeUsuario }) => {
   return (
     <div className="container">
       {estaCarregando ? (
-        <h1>Carregando...</h1>
+        <h2 className={styles.status}>Carregando...</h2>
       ) : (
         <ul className={styles.list}>
           {repos.map(({ id, name, language, html_url }) => (
